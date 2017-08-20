@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#tst
+#tist
 import socket
 import time, sys
 import dpkt
